@@ -12,6 +12,7 @@ import numpy as np
 from scipy import misc
 import matplotlib.pyplot as plt
 
+print('Just for change')
 print("I like ", np.pi)
 
 face = misc.face()
